@@ -1,0 +1,51 @@
+id,user,text,sentiment
+1,alice,"I love this app!",positive
+2,bob,"This is terrible.",negative
+3,charlie,"It is okay.",neutral
+4,david,"Amazing experience!",positive
+5,eve,"I don't like it.",negative
+6,frank,"The new update is great.",positive
+7,grace,"The app keeps crashing.",negative
+8,henry,"Nothing special about this.",neutral
+9,ian,"Very happy with the service.",positive
+10,julia,"Worst experience ever.",negative
+11,kevin,"The product is fine.",neutral
+12,lisa,"Absolutely fantastic!",positive
+13,mike,"I am disappointed.",negative
+14,nancy,"It works as expected.",neutral
+15,oliver,"Excellent customer support.",positive
+16,paul,"The service is too slow.",negative
+17,quinn,"I have mixed feelings.",neutral
+18,rachel,"Really impressed with the quality.",positive
+19,sam,"This app is useless.",negative
+20,tina,"It is an average product.",neutral
+21,uma,"I would definitely recommend this.",positive
+22,victor,"Very poor service.",negative
+23,wendy,"The experience was normal.",neutral
+24,xavier,"This is exactly what I needed.",positive
+25,yara,"I regret buying this.",negative
+26,zack,"Nothing good or bad to say.",neutral
+27,aaron,"Fantastic update!",positive
+28,bella,"The latest version is awful.",negative
+29,caleb,"The features are okay.",neutral
+30,diana,"I really enjoyed using it.",positive
+31,ethan,"The application is frustrating.",negative
+32,fiona,"It could be better.",neutral
+33,george,"Excellent performance.",positive
+34,helen,"I hate this service.",negative
+35,isaac,"The experience was fine.",neutral
+36,jack,"Very useful and easy to use.",positive
+37,karen,"The system is extremely slow.",negative
+38,leo,"I don't have an opinion yet.",neutral
+39,maria,"Great product and great service.",positive
+40,nathan,"The quality is disappointing.",negative
+41,olivia,"The product meets my expectations.",neutral
+42,peter,"I am very satisfied.",positive
+43,rose,"This is a complete waste of money.",negative
+44,steve,"It is neither good nor bad.",neutral
+45,sophia,"I am impressed by the results.",positive
+46,thomas,"The customer support was horrible.",negative
+47,ursula,"The service is acceptable.",neutral
+48,william,"I would buy this again.",positive
+49,zoe,"I am unhappy with this purchase.",negative
+50,ryan,"The product is decent.",neutral
